@@ -162,4 +162,48 @@ footer{
 .card a:hover{
     background:#0099cc;
     transform: scale(1.05);
+}.estado{
+    display:block;
+    margin:10px 0;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.disponible{
+    color:#00ff88;
+}
+
+.agotado{
+    color:#ff4d4d;
+}
+
+.btn-agotado{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+    background:#555;
+    color:white;
+    cursor:not-allowed;
+    font-weight:bold;
+}.card{
+    position:relative;
+    overflow:hidden;
+}
+
+.cinta-agotado{
+    position:absolute;
+    top:15px;
+    right:-45px;
+    width:170px;
+    background:#e53935;
+    color:white;
+    text-align:center;
+    font-size:13px;
+    font-weight:bold;
+    padding:8px 0;
+    transform:rotate(45deg);
+    box-shadow:0 4px 10px rgba(0,0,0,.35);
+    letter-spacing:1px;
+    z-index:10;
 }
