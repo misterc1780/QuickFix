@@ -53,4 +53,6 @@ buscador.addEventListener("input", function() {
             card.style.display = "none";
         }
     });
-});
+});if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js");
+}
