@@ -36,7 +36,17 @@ servicios.forEach((s, index) => {
 if (s.estado === "disponible") {
 
     estadoHTML = "";
-    botonHTML = `<a href="https://wa.me/message/D6TWHEGQDN5OB1" target="_blank">Solicitar</a>`;
+    const mensaje = encodeURIComponent(
+`Hola 👋, vengo desde la página de QuickFix.
+
+Me interesa el servicio:
+
+📌 ${s.nombre}
+
+¿Podrían darme más información? Muchas gracias.`
+);
+
+botonHTML = `<a href="https://wa.me/522229218420?text=${mensaje}" target="_blank">Solicitar</a>`;;
 
 } else {
 
