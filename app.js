@@ -1,6 +1,6 @@
 const servicios = [
-    { nombre: "Netflix", categoria: "Streaming", imagen: "img/netflix.png", estado: "agotado" },
-    { nombre: "Disney+", categoria: "Streaming", imagen: "img/disney.png", estado: "agotado" },
+    { nombre: "Netflix", categoria: "Streaming", imagen: "img/netflix.png", estado: "disponible" },
+    { nombre: "Disney+", categoria: "Streaming", imagen: "img/disney.png", estado: "disponible" },
     { nombre: "Prime Video 1 mes", categoria: "Streaming", imagen: "img/primevideo.png", estado: "disponible" },
     { nombre: "Prime Video 3 meses", categoria: "Streaming", imagen: "img/primevideo.png", estado: "disponible" },
     { nombre: "Prime Video 6 meses", categoria: "Streaming", imagen: "img/primevideo.png", estado: "disponible" },
@@ -9,6 +9,7 @@ const servicios = [
     { nombre: "Vix 1 mes", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
     { nombre: "Vix 3 meses", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
     { nombre: "Vix 1 año", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
+    { nombre: "Universal+", categoria: "Streaming", imagen: "img/universal.png", estado: "disponible" },
     { nombre: "Apple TV", categoria: "Streaming", imagen: "img/appletv.png", estado: "disponible" },
     { nombre: "Peacock TV", categoria: "Streaming", imagen: "img/peacock.png", estado: "disponible" },
     { nombre: "Crunchyroll", categoria: "Anime", imagen: "img/crunchyroll.png", estado: "disponible" },
