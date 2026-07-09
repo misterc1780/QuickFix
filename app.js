@@ -13,7 +13,7 @@ const servicios = [
     { nombre: "Peacock TV", categoria: "Streaming", imagen: "img/peacock.png", estado: "disponible" },
     { nombre: "Crunchyroll", categoria: "Anime", imagen: "img/crunchyroll.png", estado: "disponible" },
 
-    { nombre: "Spotify Premium 1 y 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
+    { nombre: "Spotify Premium 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
     { nombre: "Deezer Music", categoria: "Música", imagen: "img/dezzer.png", estado: "disponible" },
 
