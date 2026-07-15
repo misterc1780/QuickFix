@@ -18,12 +18,14 @@ const servicios = [
     { nombre: "Spotify Premium 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
     { nombre: "Deezer Music", categoria: "Música", imagen: "img/dezzer.png", estado: "disponible" },
+    { nombre: "Tidal Music", categoria: "Música", imagen: "img/tidal.png", estado: "disponible" },
 
     { nombre: "ChatGPT Plus", categoria: "IA", imagen: "img/chatgpt.png", estado: "agotado" },
     { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "disponible" },
 
     { nombre: "Canva Pro", categoria: "Productividad", imagen: "img/canva.png", estado: "disponible" },
-    { nombre: "Receta IMSS", categoria: "Productividad", imagen: "img/imss.png", estado: "agotado" }
+    { nombre: "Receta IMSS", categoria: "Documentacion", imagen: "img/imss.png", estado: "disponible" },
+    { nombre: "Certificados, Actas, Curp", categoria: "Documentacion", imagen: "img/documentos.png", estado: "dispoinle" }
 ];
 
 const contenedor = document.querySelector(".grid");
