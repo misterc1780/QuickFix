@@ -10,11 +10,12 @@ const servicios = [
     { nombre: "Vix 3 meses", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
     { nombre: "Vix 1 año", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
     { nombre: "Apple TV", categoria: "Streaming", imagen: "img/appletv.png", estado: "disponible" },
-     { nombre: "Universal+", categoria: "Streaming", imagen: "img/universal.png", estado: "disponible" },
+    { nombre: "Universal+", categoria: "Streaming", imagen: "img/universal.png", estado: "disponible" },
     { nombre: "Peacock TV", categoria: "Streaming", imagen: "img/peacock.png", estado: "disponible" },
     { nombre: "Crunchyroll", categoria: "Anime", imagen: "img/crunchyroll.png", estado: "disponible" },
+    { nombre: "IPTV TV por Interntet", categoria: "Entretenimiento", imagen: "img/iptv.png", estado: "disponible" },
 
-    { nombre: "Spotify Premium 1 y 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
+    { nombre: "Spotify Premium 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
     { nombre: "Deezer Music", categoria: "Música", imagen: "img/dezzer.png", estado: "disponible" },
 
