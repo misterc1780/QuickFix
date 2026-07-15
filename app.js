@@ -13,7 +13,7 @@ const servicios = [
     { nombre: "Universal+", categoria: "Streaming", imagen: "img/universal.png", estado: "disponible" },
     { nombre: "Peacock TV", categoria: "Streaming", imagen: "img/peacock.png", estado: "disponible" },
     { nombre: "Crunchyroll", categoria: "Anime", imagen: "img/crunchyroll.png", estado: "disponible" },
-    { nombre: "IPTV TV por Interntet", categoria: "Entretenimiento", imagen: "img/iptv.png", estado: "disponible" },
+    { nombre: "TV por Interntet", categoria: "Entretenimiento", imagen: "img/iptv.png", estado: "disponible" },
 
     { nombre: "Spotify Premium 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
