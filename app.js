@@ -24,8 +24,7 @@ const servicios = [
     { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "disponible" },
 
     { nombre: "Canva Pro", categoria: "Productividad", imagen: "img/canva.png", estado: "disponible" },
-    { nombre: "Receta IMSS", categoria: "Documentacion", imagen: "img/imss.png", estado: "disponible" },
-    { nombre: "Certificados, Actas, Curp", categoria: "Documentacion", imagen: "img/documentos.png", estado: "disponible" }
+
 ];
 
 const contenedor = document.querySelector(".grid");
