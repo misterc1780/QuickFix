@@ -11,9 +11,12 @@ const servicios = [
     { nombre: "Vix 1 año", categoria: "Streaming", imagen: "img/vix.png", estado: "disponible" },
     { nombre: "Apple TV", categoria: "Streaming", imagen: "img/appletv.png", estado: "disponible" },
     { nombre: "Universal+", categoria: "Streaming", imagen: "img/universal.png", estado: "disponible" },
+    { nombre: "Fox One", categoria: "Streaming", imagen: "img/fox.png", estado: "disponible" },
     { nombre: "Peacock TV", categoria: "Streaming", imagen: "img/peacock.png", estado: "disponible" },
     { nombre: "Crunchyroll", categoria: "Anime", imagen: "img/crunchyroll.png", estado: "disponible" },
+    { nombre: "PornHub", categoria: "Entretenimiento", imagen: "img/pornhub.png", estado: "disponible" },
     { nombre: "TV por Interntet", categoria: "Entretenimiento", imagen: "img/iptv.png", estado: "disponible" },
+    { nombre: "Xuper Tv", categoria: "Entretenimiento", imagen: "img/xupertv.png", estado: "disponible" },
 
     { nombre: "Spotify Premium 3 meses", categoria: "Música", imagen: "img/spotify.png", estado: "disponible" },
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
@@ -22,6 +25,7 @@ const servicios = [
 
     { nombre: "ChatGPT Plus", categoria: "IA", imagen: "img/chatgpt.png", estado: "agotado" },
     { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "disponible" },
+    { nombre: "Microsoft 365", categoria: "Productividad", imagen: "img/microsoft.png", estado: "disponible" },
 
     { nombre: "Canva Pro", categoria: "Productividad", imagen: "img/canva.png", estado: "disponible" },
 
