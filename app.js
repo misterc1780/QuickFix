@@ -26,7 +26,7 @@ const servicios = [
     { nombre: "ChatGPT Plus", categoria: "IA", imagen: "img/chatgpt.png", estado: "agotado" },
     { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "disponible" },
     { nombre: "Microsoft 365", categoria: "Productividad", imagen: "img/microsoft.png", estado: "disponible" },
-    { nombre: "Doulingo 1 AÑO", categoria: "Productividad", imagen: "img/doulingo", estado: "disponible" },
+    { nombre: "Doulingo 1 AÑO", categoria: "Productividad", imagen: "img/doulingo.png", estado: "disponible" },
 
     { nombre: "Canva Pro", categoria: "Productividad", imagen: "img/canva.png", estado: "disponible" },
     { nombre: "Panel Canva 500 user", categoria: "Productividad", imagen: "img/canva.png", estado: "disponible" },
