@@ -24,7 +24,7 @@ const servicios = [
     { nombre: "Tidal Music", categoria: "Música", imagen: "img/tidal.png", estado: "disponible" },
 
     { nombre: "ChatGPT Plus", categoria: "IA", imagen: "img/chatgpt.png", estado: "agotado" },
-    { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "disponible" },
+    { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "agotado" },
     { nombre: "Microsoft 365", categoria: "Productividad", imagen: "img/microsoft.png", estado: "disponible" },
     { nombre: "Super Doulingo", categoria: "Productividad", imagen: "img/doulingo.png", estado: "disponible" },
     { nombre: "ESET Antivirus", categoria: "Productividad", imagen: "img/eset.png", estado: "disponible" },
