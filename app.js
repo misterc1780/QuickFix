@@ -22,6 +22,7 @@ const servicios = [
     { nombre: "YouTube Premium", categoria: "Música", imagen: "img/youtube.png", estado: "disponible" },
     { nombre: "Deezer Music", categoria: "Música", imagen: "img/dezzer.png", estado: "disponible" },
     { nombre: "Tidal Music", categoria: "Música", imagen: "img/tidal.png", estado: "disponible" },
+    { nombre: "Amazon Music", categoria: "Música", imagen: "img/amazonmusic.png", estado: "disponible" },
 
     { nombre: "ChatGPT Plus", categoria: "IA", imagen: "img/chatgpt.png", estado: "agotado" },
     { nombre: "Gemini Advanced", categoria: "IA", imagen: "img/gemini.png", estado: "agotado" },
